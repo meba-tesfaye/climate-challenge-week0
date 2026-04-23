@@ -1,1 +1,1 @@
-# climate-challenge-week0
+# Climate Challenge Week 0 
