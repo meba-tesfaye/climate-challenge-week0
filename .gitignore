@@ -210,3 +210,4 @@ data/
 *.csv 
 .venv/ 
 .ipynb_checkpoints/ 
+venv/
